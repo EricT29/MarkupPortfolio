@@ -29,6 +29,7 @@ _Eric T_
 
 [Eric T's Github Page](https://github.com/EricT29)
 
+##
 |First|Middle|Last|
 |----||------||-------|
 |Eric|Michael|Thompson|
